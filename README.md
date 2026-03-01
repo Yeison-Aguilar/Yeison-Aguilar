@@ -19,7 +19,10 @@
 <li> Soy estudiante de ingeniería en sitemas de información </li>
 <li> Me gusta el desarrollo de paginas web y adquirir nuevo conocimiento </li>
 
-
+<hr>
+::before
+::after
+</hr>
 <br> 
 <h3>Herramientas💻: </h3>
 <br> 
