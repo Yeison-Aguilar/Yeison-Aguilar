@@ -21,5 +21,5 @@
 Herramientas: 
 <br> 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img>
-<img src = "c-logo-png_seeklogo-249774.png"/> <img> 
+<img src = "https://images.seeklogo.com/logo-png/24/1/c-logo-png_seeklogo-249774.png"/> <img> 
 <img src = ""/> <img>
