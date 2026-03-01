@@ -21,7 +21,7 @@
 
 
 <br> 
-Herramientas: 
+<h2>Herramientas💻: </h2>
 <br> 
 <p aling = "center" dir="auto">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;">
