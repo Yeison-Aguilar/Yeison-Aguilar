@@ -15,9 +15,9 @@
 - ⚡ Fun fact: ...
 -->
 <h1 aling="center"> Acerca de mi </h1> 
-<li>::
-Soy estudiante de ingeniería en sitemas de información </li>
-<p> Me gusta el desarrollo de paginas web y adquirir nuevo conocimiento que me ayude a programar</p>
+<li> Soy estudiante de ingeniería en sitemas de información </li>
+<li> Me gusta el desarrollo de paginas web y adquirir nuevo conocimiento </li>
+
 
 <br> 
 Herramientas: 
