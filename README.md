@@ -18,6 +18,7 @@
 <p> Soy estudiante de ingeniería en sitemas de información </p>
 
 <br> 
-## Herramientas: 
+Herramientas: 
 <br> 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img > 
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img> 
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/> <im>
