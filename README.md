@@ -16,3 +16,8 @@
 -->
 <h1 aling="center"> Acerca de mi </h1> 
 <p> Soy estudiante de ingeniería en sitemas de información </p>
+
+<br> 
+## Herramientas: 
+<br> 
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img > 
