@@ -21,5 +21,5 @@
 Herramientas: 
 <br> 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img>
-<img src = "https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/> <img> 
-<img src = "https://campus.w3schools.com/collections/course-catalog/products/c-course-1?_gl=1*1p42gqv*_ga*MTkwODcyMzAxOC4xNzcyMTI1OTk0*_ga_9YNMTB56NB*czE3NzIzMzM1NTEkbzIkZzEkdDE3NzIzMzM5MjUkajUzJGwwJGgw*_gcl_au*NzQ1NzI3NzYyLjE3NzIzMzM5MjE."/> <img>
+<img src = "c-logo-png_seeklogo-249774.png"/> <img> 
+<img src = ""/> <img>
