@@ -16,6 +16,7 @@
 -->
 <h1 aling="center"> Acerca de mi </h1> 
 <p> Soy estudiante de ingeniería en sitemas de información </p>
+<p> Me gusta el desarrollo de paginas web y adquirir nuevo conocimiento que me ayude a programar</p>
 
 <br> 
 Herramientas: 
