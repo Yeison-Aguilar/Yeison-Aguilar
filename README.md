@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center" class="heading-element" dir="auto">Acerca de mí</h3>
+<h1 align="center" class="heading-element" dir="auto">Acerca de mí</h1>
 
 <li> Soy estudiante de ingeniería en sitemas de información </li>
 <li> Me gusta el desarrollo de paginas web y adquirir nuevo conocimiento </li>
