@@ -16,7 +16,7 @@
 -->
 <h1 align="center" class="heading-element" dir="auto">Acerca de mí</h1>
 
-<li> Soy estudiante de ingeniería en sitemas de información </li>
+<li> Soy estudiante de ingeniería en sistemas de información </li>
 <li> Me gusta el desarrollo de paginas web  </li>
 <br> 
 <h3>Herramientas💻: </h3>
